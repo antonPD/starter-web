@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Mike Bobike		mike@bobike.com		@mikeB
 
 # THANKS
 
