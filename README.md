@@ -8,9 +8,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Demos, too!
 
 ## Deployment
+Deployment can be done of any web server.
 
 ## How To Contribute
 
