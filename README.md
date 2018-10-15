@@ -15,5 +15,7 @@ Deployment can be done of any web server.
 
 ## How To Contribute
 
+Please fork this repo and issue a pull request.
+
 ### Copyright
 I did this. Don't copy me.
