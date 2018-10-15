@@ -15,4 +15,5 @@ Deployment can be done of any web server.
 
 ## How To Contribute
 
-
+### Copyright
+I did this. Don't copy me.
