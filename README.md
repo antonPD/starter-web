@@ -9,6 +9,7 @@ This example is to show different parts of the Git repository and various comman
 ## Purpose
 
 Sample website with plenty of files for demos. Demos, too!
+We'll learn things along the way, like rebasing.
 
 ## Deployment
 Deployment can be done of any web server.
