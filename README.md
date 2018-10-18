@@ -20,4 +20,4 @@ Deployment can be done of any web server.
 Please fork this repo and issue a pull request.
 
 ### Copyright
-I did this. Don't copy me.
+I did this. Don't copy me. All rights reserved.
