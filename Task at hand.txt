@@ -1,0 +1,16 @@
+REBASE TIME!
+
+
+I made a new branch that branched off of testMaster. I've made four commits to it. Two of them was a quick correction because I forgot something in the commit before. I've also made a commit to testMaster.
+
+I want to clean up my branch so it's ready for PR.
+
+Here are the tasks at hand:
+Task 1 - Rebasing testMaster's changes so probablyBroken branch has them. Resolving any conflicts that come out of that. 
+
+Task 2 - squashing the last two commits together, since I didn't mean to make them.
+
+
+Task 3 (hard mode) - I want to squash the "oops" commit in with the one before it, but any commits after that are fine.
+So, I want to combine commit 69cf37d ("Adding some things and stuff to try and make a conflict") and commit 37ee473 ("OOPS! Forgot to add something") into one commit, but I want 07c9b8d ("An irrelevant commit and a description of the tasks") to not be affected.
+(Not sure if you learned about task 2 stuff in your course. Ping me for keywords/hints if you haven't)
